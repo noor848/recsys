@@ -1,0 +1,7 @@
+fastapi~=0.111.1
+uvicorn
+grpcio
+grpcio-tools
+confluent_kafka
+pydantic~=2.8.2
+requests~=2.32.3
